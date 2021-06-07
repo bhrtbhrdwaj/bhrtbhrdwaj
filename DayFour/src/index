@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+</head>
+<body>
+<applet code=AppletExample.class height=3000 width=3000>
+<param Name="pname" value="welcome to applet world">
+
+</applet>
+</body>
+</html>
