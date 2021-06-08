@@ -3,7 +3,10 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 public class Smiley extends Applet {
-    public void paint(Graphics g)
+ 
+	private static final long serialVersionUID = 1L;
+
+	public void paint(Graphics g)
     {
   
         // Oval for face outline
